@@ -2,9 +2,11 @@ class MyLinkedList {
     class Node{
         int val;
         Node next;
+        Node prev;
         Node(int val){
             this.val=val;
             next=null;
+            prev=null;
         }
     }
     Node head,tail;
@@ -32,6 +34,7 @@ class MyLinkedList {
         }
         else{
             nn.next=head;
+            head.prev=nn;
             head=nn;
         }
         cnt++;
@@ -45,6 +48,7 @@ class MyLinkedList {
         }
         else{
             tail.next=nn;
+            nn.prev=tail;
             tail=nn;
         }
         cnt++;
@@ -65,7 +69,9 @@ class MyLinkedList {
             for(int i=0;i<index-1;i++){
                 temp=temp.next;
             }
+            nn.prev=temp;
             nn.next=temp.next;
+            temp.next.prev=nn;
             temp.next=nn;
             cnt++;
         }
@@ -81,13 +87,20 @@ class MyLinkedList {
             }
             cnt--;
         }
+        else if(index==cnt-1){
+            tail=tail.prev;
+            if(tail==null)
+                head=null;
+            else
+                tail.next=null;
+            cnt--;
+        }
         else{
             Node temp=head;
-            for(int i=0; i<index-1; i++) 
+            for(int i=0;i<index-1;i++)
                 temp=temp.next;
-            temp.next = temp.next.next;
-            if(temp.next==null)
-                tail=temp;
+            temp.next=temp.next.next;
+            temp.next.prev=temp;
             cnt--;
         }
     }
