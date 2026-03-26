@@ -61,6 +61,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [1472-design-browser-history](https://github.com/Dharshini-E-012/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Doubly-Linked List
@@ -76,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
