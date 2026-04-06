@@ -48,6 +48,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0283-move-zeroes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0283-move-zeroes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [1472-design-browser-history](https://github.com/Dharshini-E-012/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Doubly-Linked List
