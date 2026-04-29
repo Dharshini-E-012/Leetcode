@@ -51,6 +51,7 @@
 | [0141-linked-list-cycle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0238-product-of-array-except-self](https://github.com/Dharshini-E-012/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Dharshini-E-012/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Doubly-Linked List
@@ -114,6 +116,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
