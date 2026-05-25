@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Dharshini-E-012/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Dharshini-E-012/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@
 | [0283-move-zeroes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/Dharshini-E-012/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1472-design-browser-history](https://github.com/Dharshini-E-012/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -97,6 +99,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -131,6 +134,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
