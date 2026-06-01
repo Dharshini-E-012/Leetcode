@@ -77,6 +77,7 @@
 | [0088-merge-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshini-E-012/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0198-house-robber](https://github.com/Dharshini-E-012/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Dharshini-E-012/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -125,6 +126,7 @@
 | [0053-maximum-subarray](https://github.com/Dharshini-E-012/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshini-E-012/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/Dharshini-E-012/Leetcode/tree/main/0198-house-robber/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
