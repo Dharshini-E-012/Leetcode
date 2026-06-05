@@ -37,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dharshini-E-012/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -151,6 +152,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dharshini-E-012/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -182,6 +184,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/Dharshini-E-012/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Quickselect
@@ -246,4 +249,8 @@
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharshini-E-012/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
