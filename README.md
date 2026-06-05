@@ -37,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dharshini-E-012/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -66,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dharshini-E-012/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Array
 | Problem Name | Difficulty |
