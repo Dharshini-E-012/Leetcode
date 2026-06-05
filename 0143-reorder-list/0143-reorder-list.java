@@ -23,15 +23,15 @@ class Solution {
             prev=curr;
             curr=next;
         }
-        ListNode first=head;
-        ListNode second=prev;
-        while(second.next!=null){
-            ListNode temp1=first.next;
-            ListNode temp2=second.next;
-            first.next=second;
-            second.next=temp1;
-            first=temp1;
-            second=temp2;
+        ListNode l1=head;
+        ListNode l2=prev;
+        while(l2.next!=null){
+            ListNode temp1=l1.next;
+            ListNode temp2=l2.next;
+            l1.next=l2;
+            l2.next=temp1;
+            l1=temp1;
+            l2=temp2;
         }
     }
 }
