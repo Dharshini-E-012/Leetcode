@@ -236,6 +236,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Dharshini-E-012/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0319-bulb-switcher](https://github.com/Dharshini-E-012/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,4 +263,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Dharshini-E-012/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
