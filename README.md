@@ -102,6 +102,7 @@
 | [0518-coin-change-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -125,6 +126,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Backtracking
@@ -229,6 +231,7 @@
 | ------- | ------- |
 | [0064-minimum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dharshini-E-012/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
