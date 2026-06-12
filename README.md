@@ -280,6 +280,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Dharshini-E-012/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
+| [0177-nth-highest-salary](https://github.com/Dharshini-E-012/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
 | [0626-exchange-seats](https://github.com/Dharshini-E-012/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Dharshini-E-012/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
