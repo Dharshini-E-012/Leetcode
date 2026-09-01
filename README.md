@@ -67,6 +67,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -113,6 +114,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -192,6 +194,7 @@
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
