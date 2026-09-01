@@ -109,6 +109,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0518-coin-change-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0605-can-place-flowers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -319,6 +320,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
