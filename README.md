@@ -63,6 +63,7 @@
 | [0143-reorder-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -103,6 +104,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0518-coin-change-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -184,6 +186,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Counting
@@ -307,4 +310,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0796-rotate-string/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
