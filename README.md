@@ -144,6 +144,7 @@
 | [0125-valid-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0796-rotate-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharshini-E-012/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 ## Dynamic Programming
@@ -296,4 +297,8 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Dharshini-E-012/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Dharshini-E-012/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Dharshini-E-012/Leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
