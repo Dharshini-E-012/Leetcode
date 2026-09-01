@@ -258,6 +258,7 @@
 | [0062-unique-paths](https://github.com/Dharshini-E-012/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0319-bulb-switcher](https://github.com/Dharshini-E-012/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [0728-self-dividing-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
