@@ -71,6 +71,7 @@
 | [0141-linked-list-cycle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Dharshini-E-012/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@
 | [0125-valid-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0771-jewels-and-stones](https://github.com/Dharshini-E-012/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharshini-E-012/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
