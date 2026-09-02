@@ -189,6 +189,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0661-image-smoother](https://github.com/Dharshini-E-012/Leetcode/tree/main/0661-image-smoother/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
