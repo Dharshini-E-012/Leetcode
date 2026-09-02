@@ -90,6 +90,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dharshini-E-012/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Dharshini-E-012/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -132,6 +133,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshini-E-012/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/Dharshini-E-012/Leetcode/tree/main/0135-candy/) | Hard |
+| [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Dharshini-E-012/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -206,6 +208,7 @@
 | [0039-combination-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -225,6 +228,7 @@
 | [0115-distinct-subsequences](https://github.com/Dharshini-E-012/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -258,6 +262,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0198-house-robber](https://github.com/Dharshini-E-012/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -308,6 +313,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +397,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
