@@ -254,6 +254,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Dharshini-E-012/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0824-goat-latin](https://github.com/Dharshini-E-012/Leetcode/tree/main/0824-goat-latin/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
