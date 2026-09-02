@@ -182,6 +182,7 @@
 | [0496-next-greater-element-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0561-array-partition](https://github.com/Dharshini-E-012/Leetcode/tree/main/0561-array-partition/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -251,6 +252,7 @@
 | [0068-text-justification](https://github.com/Dharshini-E-012/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/Dharshini-E-012/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/Dharshini-E-012/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Dharshini-E-012/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -477,6 +479,7 @@
 | [0079-word-search](https://github.com/Dharshini-E-012/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/Dharshini-E-012/Leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
