@@ -99,6 +99,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0925-long-pressed-name](https://github.com/Dharshini-E-012/Leetcode/tree/main/0925-long-pressed-name/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Dharshini-E-012/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +226,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Dharshini-E-012/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Dharshini-E-012/Leetcode/tree/main/1051-height-checker/) | Easy |
+| [1089-duplicate-zeros](https://github.com/Dharshini-E-012/Leetcode/tree/main/1089-duplicate-zeros/) | Easy |
 | [1472-design-browser-history](https://github.com/Dharshini-E-012/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
