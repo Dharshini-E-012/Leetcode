@@ -302,6 +302,7 @@
 | [0412-fizz-buzz](https://github.com/Dharshini-E-012/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/Dharshini-E-012/Leetcode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0520-detect-capital](https://github.com/Dharshini-E-012/Leetcode/tree/main/0520-detect-capital/) | Easy |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0521-longest-uncommon-subsequence-i/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Dharshini-E-012/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0748-shortest-completing-word/) | Easy |
