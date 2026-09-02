@@ -215,6 +215,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Dharshini-E-012/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Dharshini-E-012/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -395,6 +396,7 @@
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/Dharshini-E-012/Leetcode/tree/main/1051-height-checker/) | Easy |
 ## Counting
@@ -521,6 +523,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharshini-E-012/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1025-divisor-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -614,11 +617,13 @@
 | [0605-can-place-flowers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0860-lemonade-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Dharshini-E-012/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -707,6 +712,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
