@@ -525,6 +525,7 @@
 | [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dharshini-E-012/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0868-binary-gap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
