@@ -181,6 +181,7 @@
 | [0495-teemo-attacking](https://github.com/Dharshini-E-012/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0561-array-partition](https://github.com/Dharshini-E-012/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -377,6 +378,7 @@
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/Dharshini-E-012/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -596,6 +598,7 @@
 | [0135-candy](https://github.com/Dharshini-E-012/Leetcode/tree/main/0135-candy/) | Hard |
 | [0409-longest-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0561-array-partition](https://github.com/Dharshini-E-012/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0860-lemonade-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 ## Quicksort
@@ -627,6 +630,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/Dharshini-E-012/Leetcode/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Dharshini-E-012/Leetcode/tree/main/1051-height-checker/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
