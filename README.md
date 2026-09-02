@@ -9,6 +9,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Dharshini-E-012/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Dharshini-E-012/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0901-online-stock-span](https://github.com/Dharshini-E-012/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -157,6 +158,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +272,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
