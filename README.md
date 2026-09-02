@@ -323,6 +323,7 @@
 | [0070-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0319-bulb-switcher](https://github.com/Dharshini-E-012/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/Dharshini-E-012/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0441-arranging-coins](https://github.com/Dharshini-E-012/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0593-valid-square](https://github.com/Dharshini-E-012/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
@@ -342,6 +343,7 @@
 | [0162-find-peak-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0441-arranging-coins](https://github.com/Dharshini-E-012/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
