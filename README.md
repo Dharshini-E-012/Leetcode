@@ -397,6 +397,7 @@
 | [0593-valid-square](https://github.com/Dharshini-E-012/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dharshini-E-012/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -494,6 +495,7 @@
 | [0461-hamming-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Dharshini-E-012/Leetcode/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dharshini-E-012/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -551,4 +553,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Primality Test
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dharshini-E-012/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 <!---LeetCode Topics End-->
