@@ -169,6 +169,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +294,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Dharshini-E-012/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +310,7 @@
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Dharshini-E-012/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
