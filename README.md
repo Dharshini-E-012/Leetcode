@@ -123,6 +123,7 @@
 | [0888-fair-candy-swap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharshini-E-012/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Dharshini-E-012/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
+| [1002-find-common-characters](https://github.com/Dharshini-E-012/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +219,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [1002-find-common-characters](https://github.com/Dharshini-E-012/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Dharshini-E-012/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Dharshini-E-012/Leetcode/tree/main/1051-height-checker/) | Easy |
@@ -332,6 +334,7 @@
 | [0917-reverse-only-letters](https://github.com/Dharshini-E-012/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0925-long-pressed-name](https://github.com/Dharshini-E-012/Leetcode/tree/main/0925-long-pressed-name/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Dharshini-E-012/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
+| [1002-find-common-characters](https://github.com/Dharshini-E-012/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
