@@ -418,6 +418,7 @@
 | ------- | ------- |
 | [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0461-hamming-distance/) | Easy |
+| [0476-number-complement](https://github.com/Dharshini-E-012/Leetcode/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
