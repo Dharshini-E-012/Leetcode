@@ -313,6 +313,7 @@
 | [0062-unique-paths](https://github.com/Dharshini-E-012/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0319-bulb-switcher](https://github.com/Dharshini-E-012/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [0593-valid-square](https://github.com/Dharshini-E-012/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/1025-divisor-game/) | Easy |
@@ -437,4 +438,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0593-valid-square](https://github.com/Dharshini-E-012/Leetcode/tree/main/0593-valid-square/) | Medium |
 <!---LeetCode Topics End-->
