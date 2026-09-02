@@ -107,6 +107,7 @@
 | [0819-most-common-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Dharshini-E-012/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +177,7 @@
 | [0860-lemonade-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -322,6 +324,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharshini-E-012/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -454,6 +457,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0441-arranging-coins](https://github.com/Dharshini-E-012/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
