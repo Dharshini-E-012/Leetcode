@@ -79,6 +79,7 @@
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Dharshini-E-012/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -167,6 +168,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0819-most-common-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Dharshini-E-012/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
@@ -251,6 +253,7 @@
 | [0796-rotate-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0819-most-common-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0819-most-common-word/) | Easy |
+| [0821-shortest-distance-to-a-character](https://github.com/Dharshini-E-012/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
