@@ -123,6 +123,7 @@
 | [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dharshini-E-012/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0068-text-justification](https://github.com/Dharshini-E-012/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshini-E-012/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0162-find-peak-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -182,6 +183,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/Dharshini-E-012/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0412-fizz-buzz](https://github.com/Dharshini-E-012/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/Dharshini-E-012/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Dharshini-E-012/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -209,6 +211,7 @@
 | [0038-count-and-say](https://github.com/Dharshini-E-012/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/Dharshini-E-012/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0065-valid-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0065-valid-number/) | Hard |
+| [0068-text-justification](https://github.com/Dharshini-E-012/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
