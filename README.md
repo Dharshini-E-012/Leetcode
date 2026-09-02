@@ -80,6 +80,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Dharshini-E-012/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -169,6 +170,7 @@
 | [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0819-most-common-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Dharshini-E-012/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
+| [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
@@ -208,6 +210,7 @@
 | [0412-fizz-buzz](https://github.com/Dharshini-E-012/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0495-teemo-attacking](https://github.com/Dharshini-E-012/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Dharshini-E-012/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -395,6 +398,7 @@
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0661-image-smoother](https://github.com/Dharshini-E-012/Leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dharshini-E-012/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Graph Theory
@@ -515,6 +519,7 @@
 | [0476-number-complement](https://github.com/Dharshini-E-012/Leetcode/tree/main/0476-number-complement/) | Easy |
 | [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dharshini-E-012/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
