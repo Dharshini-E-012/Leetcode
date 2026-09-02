@@ -266,6 +266,7 @@
 | [0078-subsets](https://github.com/Dharshini-E-012/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Dharshini-E-012/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0089-gray-code](https://github.com/Dharshini-E-012/Leetcode/tree/main/0089-gray-code/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Dharshini-E-012/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 ## String
@@ -286,6 +287,7 @@
 | [0079-word-search](https://github.com/Dharshini-E-012/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0087-scramble-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0091-decode-ways](https://github.com/Dharshini-E-012/Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0093-restore-ip-addresses](https://github.com/Dharshini-E-012/Leetcode/tree/main/0093-restore-ip-addresses/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Dharshini-E-012/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0132-palindrome-partitioning-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
