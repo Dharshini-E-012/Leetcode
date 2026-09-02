@@ -104,6 +104,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dharshini-E-012/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Dharshini-E-012/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0060-permutation-sequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Array
@@ -349,6 +350,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0060-permutation-sequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Dharshini-E-012/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0319-bulb-switcher](https://github.com/Dharshini-E-012/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
