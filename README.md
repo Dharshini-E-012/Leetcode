@@ -311,6 +311,7 @@
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/Dharshini-E-012/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/Dharshini-E-012/Leetcode/tree/main/0177-nth-highest-salary/) | Medium |
+| [0180-consecutive-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Dharshini-E-012/Leetcode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Dharshini-E-012/Leetcode/tree/main/0577-employee-bonus/) | Easy |
