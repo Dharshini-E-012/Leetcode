@@ -264,6 +264,7 @@
 | [0077-combinations](https://github.com/Dharshini-E-012/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Dharshini-E-012/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Dharshini-E-012/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0089-gray-code](https://github.com/Dharshini-E-012/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 ## String
@@ -478,6 +479,7 @@
 | [0060-permutation-sequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0062-unique-paths](https://github.com/Dharshini-E-012/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0089-gray-code](https://github.com/Dharshini-E-012/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0319-bulb-switcher](https://github.com/Dharshini-E-012/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/Dharshini-E-012/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Dharshini-E-012/Leetcode/tree/main/0441-arranging-coins/) | Easy |
@@ -590,6 +592,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Dharshini-E-012/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0089-gray-code](https://github.com/Dharshini-E-012/Leetcode/tree/main/0089-gray-code/) | Medium |
 | [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Dharshini-E-012/Leetcode/tree/main/0476-number-complement/) | Easy |
