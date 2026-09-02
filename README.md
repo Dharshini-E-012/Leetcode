@@ -53,6 +53,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0024-swap-nodes-in-pairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dharshini-E-012/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -125,6 +126,7 @@
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/Dharshini-E-012/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/Dharshini-E-012/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dharshini-E-012/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/Dharshini-E-012/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0060-permutation-sequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
