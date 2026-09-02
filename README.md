@@ -176,6 +176,7 @@
 | [0039-combination-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,6 +402,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
