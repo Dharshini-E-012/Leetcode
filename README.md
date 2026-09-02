@@ -93,6 +93,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharshini-E-012/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@
 | [0605-can-place-flowers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -255,6 +257,7 @@
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -435,6 +438,7 @@
 | [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Dharshini-E-012/Leetcode/tree/main/0476-number-complement/) | Easy |
+| [0645-set-mismatch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
