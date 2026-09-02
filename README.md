@@ -325,6 +325,7 @@
 | [0319-bulb-switcher](https://github.com/Dharshini-E-012/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0412-fizz-buzz](https://github.com/Dharshini-E-012/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/Dharshini-E-012/Leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [0492-construct-the-rectangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0593-valid-square](https://github.com/Dharshini-E-012/Leetcode/tree/main/0593-valid-square/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
