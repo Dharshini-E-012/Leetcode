@@ -150,6 +150,7 @@
 | [0063-unique-paths-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/Dharshini-E-012/Leetcode/tree/main/0068-text-justification/) | Hard |
+| [0078-subsets](https://github.com/Dharshini-E-012/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshini-E-012/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -255,6 +256,7 @@
 | [0047-permutations-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/Dharshini-E-012/Leetcode/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/Dharshini-E-012/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0140-word-break-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0140-word-break-ii/) | Hard |
 | [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 ## String
@@ -578,6 +580,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/Dharshini-E-012/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Dharshini-E-012/Leetcode/tree/main/0476-number-complement/) | Easy |
