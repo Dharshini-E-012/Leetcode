@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharshini-E-012/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/Dharshini-E-012/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0143-reorder-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Dharshini-E-012/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -267,6 +268,7 @@
 | [0044-wildcard-matching](https://github.com/Dharshini-E-012/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0065-valid-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/Dharshini-E-012/Leetcode/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/Dharshini-E-012/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0072-edit-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Dharshini-E-012/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0087-scramble-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0087-scramble-string/) | Hard |
