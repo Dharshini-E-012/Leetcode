@@ -175,6 +175,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Dharshini-E-012/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -253,6 +254,7 @@
 | [0115-distinct-subsequences](https://github.com/Dharshini-E-012/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshini-E-012/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Dharshini-E-012/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -317,6 +319,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Dharshini-E-012/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -329,6 +332,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Dharshini-E-012/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -525,4 +529,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
