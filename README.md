@@ -327,6 +327,7 @@
 | [0627-swap-sex-of-employees](https://github.com/Dharshini-E-012/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Dharshini-E-012/Leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Dharshini-E-012/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/Dharshini-E-012/Leetcode/tree/main/1251-average-selling-price/) | Easy |
