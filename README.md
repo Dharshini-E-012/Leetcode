@@ -88,6 +88,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0696-count-binary-substrings](https://github.com/Dharshini-E-012/Leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0821-shortest-distance-to-a-character](https://github.com/Dharshini-E-012/Leetcode/tree/main/0821-shortest-distance-to-a-character/) | Easy |
 | [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -313,6 +314,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Dharshini-E-012/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0696-count-binary-substrings](https://github.com/Dharshini-E-012/Leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharshini-E-012/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0796-rotate-string/) | Easy |
