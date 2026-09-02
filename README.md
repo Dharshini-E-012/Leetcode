@@ -208,6 +208,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dharshini-E-012/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/Dharshini-E-012/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/Dharshini-E-012/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0065-valid-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0072-edit-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
