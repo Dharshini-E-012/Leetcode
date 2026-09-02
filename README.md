@@ -251,6 +251,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Dharshini-E-012/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +450,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Dharshini-E-012/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +467,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Dharshini-E-012/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -475,6 +478,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0993-cousins-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
