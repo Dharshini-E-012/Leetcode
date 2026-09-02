@@ -164,6 +164,7 @@
 | [0748-shortest-completing-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0748-shortest-completing-word/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
@@ -406,6 +407,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dharshini-E-012/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -545,6 +547,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0593-valid-square](https://github.com/Dharshini-E-012/Leetcode/tree/main/0593-valid-square/) | Medium |
+| [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -566,4 +569,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dharshini-E-012/Leetcode/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 <!---LeetCode Topics End-->
