@@ -272,6 +272,7 @@
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1103-distribute-candies-to-people](https://github.com/Dharshini-E-012/Leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -543,6 +544,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1025-divisor-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1103-distribute-candies-to-people](https://github.com/Dharshini-E-012/Leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
