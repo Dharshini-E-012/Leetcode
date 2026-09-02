@@ -61,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Dharshini-E-012/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Dharshini-E-012/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -100,6 +101,7 @@
 | [0001-two-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Dharshini-E-012/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Dharshini-E-012/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0048-rotate-image/) | Medium |
@@ -214,6 +216,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/Dharshini-E-012/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
