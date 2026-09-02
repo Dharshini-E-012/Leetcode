@@ -162,6 +162,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Dharshini-E-012/Leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0748-shortest-completing-word/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
@@ -377,6 +378,7 @@
 | [0085-maximal-rectangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0661-image-smoother](https://github.com/Dharshini-E-012/Leetcode/tree/main/0661-image-smoother/) | Easy |
+| [0766-toeplitz-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dharshini-E-012/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Graph Theory
