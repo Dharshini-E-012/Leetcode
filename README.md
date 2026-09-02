@@ -146,6 +146,7 @@
 | [0056-merge-intervals](https://github.com/Dharshini-E-012/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Dharshini-E-012/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/Dharshini-E-012/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
@@ -309,6 +310,7 @@
 | [0053-maximum-subarray](https://github.com/Dharshini-E-012/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Dharshini-E-012/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -440,6 +442,7 @@
 | [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0063-unique-paths-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
