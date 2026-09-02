@@ -158,6 +158,7 @@
 | [0661-image-smoother](https://github.com/Dharshini-E-012/Leetcode/tree/main/0661-image-smoother/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
@@ -267,6 +268,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1025-divisor-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
