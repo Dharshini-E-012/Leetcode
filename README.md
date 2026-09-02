@@ -88,6 +88,7 @@
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharshini-E-012/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0518-coin-change-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Dharshini-E-012/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -235,6 +237,7 @@
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0414-third-maximum-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -243,6 +246,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -333,6 +337,7 @@
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dharshini-E-012/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharshini-E-012/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
