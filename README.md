@@ -220,6 +220,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1002-find-common-characters](https://github.com/Dharshini-E-012/Leetcode/tree/main/1002-find-common-characters/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Dharshini-E-012/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Dharshini-E-012/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Dharshini-E-012/Leetcode/tree/main/1051-height-checker/) | Easy |
@@ -647,6 +648,7 @@
 | [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0868-binary-gap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0868-binary-gap/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Dharshini-E-012/Leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Dharshini-E-012/Leetcode/tree/main/1018-binary-prefix-divisible-by-5/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
