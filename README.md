@@ -225,6 +225,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Dharshini-E-012/Leetcode/tree/main/0079-word-search/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -414,6 +415,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -430,6 +432,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -663,6 +666,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0897-increasing-order-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
