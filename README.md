@@ -163,6 +163,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Dharshini-E-012/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0010-regular-expression-matching](https://github.com/Dharshini-E-012/Leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
