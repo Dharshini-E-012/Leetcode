@@ -13,6 +13,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 | [0901-online-stock-span](https://github.com/Dharshini-E-012/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -212,6 +213,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Dharshini-E-012/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -376,6 +378,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Dharshini-E-012/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -389,6 +392,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0872-leaf-similar-trees](https://github.com/Dharshini-E-012/Leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -601,6 +605,7 @@
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [0897-increasing-order-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0897-increasing-order-search-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
