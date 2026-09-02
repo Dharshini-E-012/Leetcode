@@ -178,6 +178,7 @@
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Dharshini-E-012/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharshini-E-012/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -414,6 +415,7 @@
 | [0832-flipping-an-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dharshini-E-012/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -437,6 +439,7 @@
 | [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [1025-divisor-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -583,6 +586,7 @@
 | [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0892-surface-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
