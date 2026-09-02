@@ -8,6 +8,7 @@
 | [0143-reorder-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Dharshini-E-012/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Dharshini-E-012/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharshini-E-012/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/Dharshini-E-012/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Data Stream
@@ -89,6 +91,7 @@
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0409-longest-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Dharshini-E-012/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 ## Recursion
@@ -132,6 +135,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0495-teemo-attacking](https://github.com/Dharshini-E-012/Leetcode/tree/main/0495-teemo-attacking/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0518-coin-change-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0605-can-place-flowers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
