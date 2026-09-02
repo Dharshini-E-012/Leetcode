@@ -177,6 +177,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +307,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +317,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dharshini-E-012/Leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
