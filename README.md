@@ -18,6 +18,7 @@
 | [0901-online-stock-span](https://github.com/Dharshini-E-012/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1472-design-browser-history](https://github.com/Dharshini-E-012/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Design
@@ -338,6 +339,7 @@
 | [0929-unique-email-addresses](https://github.com/Dharshini-E-012/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/Dharshini-E-012/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dharshini-E-012/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
