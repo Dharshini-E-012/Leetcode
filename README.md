@@ -223,6 +223,7 @@
 | [0087-scramble-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0087-scramble-string/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Dharshini-E-012/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
+| [0132-palindrome-partitioning-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0409-longest-palindrome](https://github.com/Dharshini-E-012/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
@@ -255,6 +256,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dharshini-E-012/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/Dharshini-E-012/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0322-coin-change/) | Medium |
