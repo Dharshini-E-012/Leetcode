@@ -75,6 +75,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Dharshini-E-012/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/Dharshini-E-012/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -93,6 +94,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Dharshini-E-012/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dharshini-E-012/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -151,6 +153,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -260,6 +263,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Dharshini-E-012/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -390,4 +394,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Dharshini-E-012/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
