@@ -143,6 +143,7 @@
 | [0051-n-queens](https://github.com/Dharshini-E-012/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Dharshini-E-012/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/Dharshini-E-012/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/Dharshini-E-012/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
@@ -338,6 +339,7 @@
 | [0016-3sum-closest](https://github.com/Dharshini-E-012/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0047-permutations-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0056-merge-intervals](https://github.com/Dharshini-E-012/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -561,6 +563,7 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/Dharshini-E-012/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
