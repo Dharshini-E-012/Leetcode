@@ -106,6 +106,7 @@
 | [0771-jewels-and-stones](https://github.com/Dharshini-E-012/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0819-most-common-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/0859-buddy-strings/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Dharshini-E-012/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +266,7 @@
 | [0830-positions-of-large-groups](https://github.com/Dharshini-E-012/Leetcode/tree/main/0830-positions-of-large-groups/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Dharshini-E-012/Leetcode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0859-buddy-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/0859-buddy-strings/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Dharshini-E-012/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Dharshini-E-012/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -330,6 +332,7 @@
 | [0169-majority-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0819-most-common-word](https://github.com/Dharshini-E-012/Leetcode/tree/main/0819-most-common-word/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Dharshini-E-012/Leetcode/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
