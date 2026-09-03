@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Dharshini-E-012/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Dharshini-E-012/Leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Dharshini-E-012/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Dharshini-E-012/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -60,6 +61,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
@@ -242,6 +244,7 @@
 | ------- | ------- |
 | [0079-word-search](https://github.com/Dharshini-E-012/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0200-number-of-islands](https://github.com/Dharshini-E-012/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -447,6 +450,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Dharshini-E-012/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
@@ -467,6 +471,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Dharshini-E-012/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/Dharshini-E-012/Leetcode/tree/main/0404-sum-of-left-leaves/) | Easy |
