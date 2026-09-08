@@ -552,6 +552,7 @@
 | [1025-divisor-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Dharshini-E-012/Leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1103-distribute-candies-to-people](https://github.com/Dharshini-E-012/Leetcode/tree/main/1103-distribute-candies-to-people/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Dharshini-E-012/Leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
