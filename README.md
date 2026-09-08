@@ -86,6 +86,7 @@
 | [0141-linked-list-cycle](https://github.com/Dharshini-E-012/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Dharshini-E-012/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Dharshini-E-012/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -180,6 +181,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharshini-E-012/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Dharshini-E-012/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0414-third-maximum-number/) | Easy |
@@ -565,6 +567,7 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharshini-E-012/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0441-arranging-coins](https://github.com/Dharshini-E-012/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -653,6 +656,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/Dharshini-E-012/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0089-gray-code](https://github.com/Dharshini-E-012/Leetcode/tree/main/0089-gray-code/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0401-binary-watch](https://github.com/Dharshini-E-012/Leetcode/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/Dharshini-E-012/Leetcode/tree/main/0461-hamming-distance/) | Easy |
 | [0476-number-complement](https://github.com/Dharshini-E-012/Leetcode/tree/main/0476-number-complement/) | Easy |
@@ -747,4 +751,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Dharshini-E-012/Leetcode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
