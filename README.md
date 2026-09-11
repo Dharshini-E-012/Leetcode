@@ -129,6 +129,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharshini-E-012/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Dharshini-E-012/Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/Dharshini-E-012/Leetcode/tree/main/1002-find-common-characters/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +141,7 @@
 | [0060-permutation-sequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0060-permutation-sequence/) | Hard |
 | [0143-reorder-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Dharshini-E-012/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Dharshini-E-012/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Dharshini-E-012/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -760,4 +763,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Dharshini-E-012/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dharshini-E-012/Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
