@@ -383,6 +383,7 @@
 | [0322-coin-change](https://github.com/Dharshini-E-012/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Dharshini-E-012/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Dharshini-E-012/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0887-super-egg-drop](https://github.com/Dharshini-E-012/Leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [1025-divisor-game](https://github.com/Dharshini-E-012/Leetcode/tree/main/1025-divisor-game/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharshini-E-012/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -547,6 +548,7 @@
 | [0812-largest-triangle-area](https://github.com/Dharshini-E-012/Leetcode/tree/main/0812-largest-triangle-area/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0883-projection-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
+| [0887-super-egg-drop](https://github.com/Dharshini-E-012/Leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [0892-surface-area-of-3d-shapes](https://github.com/Dharshini-E-012/Leetcode/tree/main/0892-surface-area-of-3d-shapes/) | Easy |
 | [0908-smallest-range-i](https://github.com/Dharshini-E-012/Leetcode/tree/main/0908-smallest-range-i/) | Easy |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Dharshini-E-012/Leetcode/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
@@ -575,6 +577,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Dharshini-E-012/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0441-arranging-coins](https://github.com/Dharshini-E-012/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Dharshini-E-012/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0887-super-egg-drop](https://github.com/Dharshini-E-012/Leetcode/tree/main/0887-super-egg-drop/) | Hard |
 | [0888-fair-candy-swap](https://github.com/Dharshini-E-012/Leetcode/tree/main/0888-fair-candy-swap/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
